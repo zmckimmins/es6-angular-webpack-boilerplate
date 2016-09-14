@@ -1,6 +1,11 @@
 # ES6 Angular & Webpack Boilerplate
 A simple Angular ES6 boilerplate with babel and webpack. It comes with some components and services as examples.
 
+<details> 
+  <summary>Q1: What is the best Language in the World? </summary>
+   A1: JavaScript 
+</details>
+
 **Features**:
 * Webpack
 * ES6
